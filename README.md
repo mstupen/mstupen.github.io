@@ -1,1 +1,1 @@
-My gh-pages progects
+My gh-pages projects
